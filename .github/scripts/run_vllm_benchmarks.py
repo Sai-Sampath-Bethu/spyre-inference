@@ -59,8 +59,7 @@ DATASET_PATH_DEFAULTS = {
         "all_sequences_2025.11.03_e2ee1b0_correct_order.jsonl"
     ),
     "SPYRE_VISION_DATASET": (
-        "/models/online_benchmarking_data_reordered/"
-        "wdu_combined_article_payload_fixed.jsonl"
+        "/models/online_benchmarking_data_reordered/wdu_combined_article_payload_fixed.jsonl"
     ),
 }
 
